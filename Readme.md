@@ -7,21 +7,21 @@ This repo helps you rename the subtitle files with their corresponding video nam
 
 Suppose that you have such content in your folder. Just put the executable file on this folder and press the button.
 ```
-BreakingBad.S01E01.mkv
-BreakingBad.S01E02.mkv
-BreakingBad.S01E03.mkv
-subtitleworld.com.breakingbad.720.S01E01.srt
-donyayezirnevis.com.breakingbad.Bluray.series.S01E02.srt
-subtitleworld.com.breakingbad.720.S01E03.srt
+├── BreakingBad.S01E01.mkv
+├── BreakingBad.S01E02.mkv
+├── BreakingBad.S01E03.mkv
+├── donyayezirnevis.com.breakingbad.Bluray.series.S01E02.srt
+├── subtitleworld.com.breakingbad.720.S01E01.srt
+└── subtitleworld.com.breakingbad.720.S01E03.srt
 ```
 The output will be:
 ```
-BreakingBad.S01E01.mkv
-BreakingBad.S01E02.mkv
-BreakingBad.S01E03.mkv
-BreakingBad.S01E01.srt
-BreakingBad.S01E02.srt
-BreakingBad.S01E03.srt
+├── BreakingBad.S01E01.mkv
+├── BreakingBad.S01E02.mkv
+├── BreakingBad.S01E03.mkv
+├── BreakingBad.S01E01.srt
+├── BreakingBad.S01E02.srt
+└── BreakingBad.S01E03.srt
 ```
 
 ## TODO
