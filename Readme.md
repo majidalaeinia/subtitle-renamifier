@@ -32,4 +32,5 @@ The output will be:
 - [ ] Beautify the window
 - [ ] Add tests
 - [ ] Accept custom path
+- [ ] Handle leading zeros
 - [ ] Make downloadable executable file for Windows, Linux and iOS
