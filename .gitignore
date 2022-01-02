@@ -1,1 +1,5 @@
 .idea
+/vendor
+*.mkv
+*.srt
+subtitle-renamifier
