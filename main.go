@@ -15,7 +15,7 @@ func main() {
 	path := pwd()
 
 	myApp := app.New()
-	myWindow := myApp.NewWindow("Button Widget")
+	myWindow := myApp.NewWindow("Subtitle Renamifier")
 
 	content := widget.NewButton("Rename Subtitles", func() {
 		Renamify(path)
