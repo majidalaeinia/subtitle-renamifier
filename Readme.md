@@ -1,5 +1,7 @@
 # Subtitle Renamifier
 
+![Image](https://github.com/majidalaeinia/subtitle-renamifier/blob/master/image.png?raw=true)
+
 You might have a folder containing different episodes of a serial and its corresponding subtitles.
 This repo helps you rename the subtitle files with their corresponding video name.
 
@@ -21,8 +23,6 @@ BreakingBad.S01E01.srt
 BreakingBad.S01E02.srt
 BreakingBad.S01E03.srt
 ```
-
-![Image](https://github.com/majidalaeinia/subtitle-renamifier/blob/master/image.png?raw=true)
 
 ## TODO
 - [ ] Write a descriptive readme
